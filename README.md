@@ -24,3 +24,7 @@ experience that enriches user interaction and emotional support.
 6. APIs: Ollama API for LLM, Sentiment Analysis API (if external)
 7. Database: SQLite/PostgreSQL for user data
 8. Browser Compatibility: Chrome, Firefox, Safari, Edge
+
+## Results
+![WhatsApp Image 2024-12-22 at 20 09 18_b6a2a912](https://github.com/user-attachments/assets/446b6d02-eb8e-4c95-a90b-696e48284fad)
+

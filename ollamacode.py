@@ -1,3 +1,9 @@
+# to run this cope 1st save it the code with a .py extension and install ollama 
+# open the file in VS code or any other code editor 
+# click terminal and write (ollama serve) to run the server 
+# then add a new terminal and write (cd Documents) ie ur python code's location 
+# then enter (python file_name.py) 
+
 #Code 
 import ollama
 
